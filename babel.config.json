@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-react", "@babel/preset-env"]
+}
+
+//este babel solo compila js o jsx, no ts o tsx
